@@ -7,7 +7,7 @@ about:
   head: 891106a
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:23:57Z
+  collectedAt: 2026-09-04T21:10:04Z
 timeline:
   created: 2019-03-23
   lastCommit: 2025-03-09
@@ -81,6 +81,29 @@ total:
   openIssue: 8
   commit: 416
 ---
+path: /home/runner/.x-repo/github.com/ftilde/ugdb
+collectedAt: 2026-09-04T21:10:05Z
+loc:
+  Rust:
+    code: 5922
+    comments: 141
+    blanks: 447
+    files: 19
+  Toml:
+    code: 37
+    comments: 9
+    blanks: 9
+    files: 1
+  Markdown:
+    code: 0
+    comments: 254
+    blanks: 95
+    files: 3
+total:
+  code: 5992
+  comments: 409
+  blanks: 551
+  files: 23
 ---
 date: "2026-08-24"
 repo:
